@@ -8,3 +8,4 @@ echo "<p>Este proyecto está siendo controlado por Git.</p>";
 echo "<p>Usuario: <strong>$nombre</strong></p>";
 echo "<p>Fecha de hoy: $fecha</p>";
 ?>
+// Modificacion realizada para la actividad 1.3
